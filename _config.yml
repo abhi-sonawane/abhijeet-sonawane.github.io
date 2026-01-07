@@ -2,3 +2,16 @@ title: Abhi Sonawane
 description: Senior Delivery & Digital Transformation Leader
 theme: jekyll-theme-cayman
 
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Case Studies
+    url: /case-studies
+  - title: Experience
+    url: /experience
+  - title: Contact
+    url: /contact
+
+
